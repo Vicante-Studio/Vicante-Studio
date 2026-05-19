@@ -15,7 +15,7 @@ I’m Victory, a Creative Full Stack developer with a strong design eye, buildin
 
 I work across custom development and tools like React, TypeScript, Tailwind, Webflow, and Framer to create websites and platforms that feel clear, calm, and intentional — built to support trust, storytelling, and conversion.
 
-Currently building at **Vicante Web Designs**, where I help property brands turn ideas into digital experiences that match the quality of what they offer.
+Currently building at **Vicante Studio**, where I help property brands turn ideas into digital experiences that match the quality of what they offer.
 
 Great websites aren’t decoration — they’re direction. 
 
@@ -26,7 +26,7 @@ Great websites aren’t decoration — they’re direction.
 - 💡 Lifelong learner — always exploring new tools and best practices.  
 - 🤝 I thrive in collaborative environments and love helping others grow.  
 - 🧭 Focused on building clean, maintainable, and accessible interfaces.  
-- 🧠 Passionate about blending design thinking with frontend engineering.  
+- 🧠 Passionate about blending design thinking with software engineering.  
 
 ---
 
