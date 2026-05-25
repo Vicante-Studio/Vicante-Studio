@@ -3,8 +3,32 @@
 ## 💻 Full Stack Developer | Real Estate, Architecture, Property & Brand  Websites
 
 ---
+### Frontend  
+[![My Skills](https://skillicons.dev/icons?i=react,ts,js,tailwind,redux,bootstrap,html,vite,htmx,css&perline=13)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=react,ts,js,nodejs,electron,express,prisma,sqlite,visualstudio,postgres,supabase,mongodb,webflow,tailwind,vercel,vscode,vite,bash,vitest,redux,pr,postman,npm,notion,netlify,jest,git,github,figma,codepen,bootstrap,html,htmx,css&perline=13)](https://skillicons.dev)
+### Backend  
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,prisma,bash&perline=13)](https://skillicons.dev)
+
+### Database 
+[![My Skills](https://skillicons.dev/icons?i=postgres,supabase,mongodb,sqlite&perline=13)](https://skillicons.dev)
+
+### Desktop 
+[![My Skills](https://skillicons.dev/icons?i=electron=13)](https://skillicons.dev)
+
+### CMS / No-code 
+[![My Skills](https://skillicons.dev/icons?i=webflow&perline=13)](https://skillicons.dev)
+
+### Testing 
+[![My Skills](https://skillicons.dev/icons?i=jest,vitest,postman&perline=13)](https://skillicons.dev)
+
+### DevOps/Deployment 
+[![My Skills](https://skillicons.dev/icons?i=git,github,vercel,netlify,npm&perline=13)](https://skillicons.dev)
+
+### Design 
+[![My Skills](https://skillicons.dev/icons?i=figma,codepen&perline=13)](https://skillicons.dev)
+
+### Tools  
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,notion,pr&perline=13)](https://skillicons.dev)
 
 
 ---
