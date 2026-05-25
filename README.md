@@ -30,6 +30,14 @@ Great websites aren’t decoration, they’re direction.
 
 ### CMS / No-code 
 [![My Skills](https://skillicons.dev/icons?i=webflow&perline=13)](https://skillicons.dev)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev" alt="My Skills" />
+  </a>
+  <a href="https://www.framer.com">
+    <img src="https://jsdelivr.net" alt="Framer" width="46" height="46" style="background-color: #1a1a1a; padding: 2px; border-radius: 10px; margin-left: -4px;" />
+  </a>
+</p>
 
 ### Testing 
 [![My Skills](https://skillicons.dev/icons?i=jest,vitest,postman&perline=13)](https://skillicons.dev)
