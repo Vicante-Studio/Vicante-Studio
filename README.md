@@ -13,7 +13,7 @@
 [![My Skills](https://skillicons.dev/icons?i=postgres,supabase,mongodb,sqlite&perline=13)](https://skillicons.dev)
 
 ### Desktop 
-[![My Skills](https://skillicons.dev/icons?i=electron=13)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=electron&perline=13)](https://skillicons.dev)
 
 ### CMS / No-code 
 [![My Skills](https://skillicons.dev/icons?i=webflow&perline=13)](https://skillicons.dev)
