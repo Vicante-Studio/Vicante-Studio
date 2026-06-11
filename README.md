@@ -66,11 +66,11 @@ Great websites aren’t decoration, they’re direction.
 
 ### 📈 GitHub Stats  
 
-![](https://komarev.com/ghpvc/?username=vicante-web-designs&style=flat-square&color=blueviolet)  
+![](https://komarev.com/ghpvc/?username=Vicante-Studio&style=flat-square&color=blueviolet)  
 
-![Victory's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicante-web-designs&show_icons=true&theme=radical&hide_border=true)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=vicante-web-designs&theme=radical&hide_border=true&short_numbers=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicante-web-designs&layout=compact&theme=radical&hide_border=true)
+![Victory's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vicante-Studio&show_icons=true&theme=radical&hide_border=true)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Vicante-Studio&theme=radical&hide_border=true&short_numbers=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vicante-Studio&layout=compact&theme=radical&hide_border=true)
 
 ---
 
